@@ -63,8 +63,6 @@ Kesimpulan dari analisis data bulanan untuk mengoptimalkan kinerja armada dan ru
 3. Penggunaan TransJakarta di Akhir Pekan dan Liburan: Pengalihan armada pada tempat yang sering dikunjungi di akhir pekan dan hari libur meningkatkan efisiensi layanan. Meratakan alokasi armada bus wisata membantu mengurangi waktu tunggu penumpang.
 4. Evaluasi dan Adaptasi: Melalui umpan balik pengguna, evaluasi dan adaptasi strategi terimplementasi untuk perbaikan berkelanjutan dalam layanan TransJakarta.
 
-For a more interactive and visual representation of the analysis, you can access the Tableau dashboard here (https://public.tableau.com/app/profile/eva.fachria/viz/TransjakartaDataAnalysisbyEvaFachria/Story1)
-
 Untuk dapat melihat representasi visualisasi dari analisis, juga dapat mengakses melalui dashboard Tableau pada link berikut:
 (https://public.tableau.com/app/profile/yogiandrian/viz/TransJakartaUsersDashboard-Apr2023/Dashboard1)
 

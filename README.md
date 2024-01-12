@@ -37,7 +37,7 @@ Kolom timestamp 'tapInTime' dan 'tapOutTime' diubah ke tipe data yang sesuai dan
 Dataset kini bersih dan siap untuk analisis lebih lanjut.
 
 ## Data Analysis
-Dalam laporan ini, kami menyajikan analisis data penumpang Transjakarta dengan tujuan mengatasi tantangan-tantangan tertentu dan meningkatkan layanan secara keseluruhan. 
+Dalam laporan ini, akan menyajikan analisis data pengguna Transjakarta dengan tujuan mengatasi tantangan-tantangan tertentu dan meningkatkan layanan secara keseluruhan. 
 a. Penggunaan tipe moda Transjakarta
 b. Profil pengguna TransJakarta berdasarkan jenis kelamin dan umur pengguna
 c. Kartu bank pembayaran pengguna Transjakarta
